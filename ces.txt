@@ -1,0 +1,30 @@
+输入任意两个正整数，输出最大的一个
+禁止
+sort排序、if判断、while、for
+允许
++-x/
+
+
+a=9
+b=7
+34/7 = 4
+34%7 = 5
+
+
+
+a=31, b=4
+a1(a - b)=27, shangNuma1=7.000000, shangNuma2=3.000000
+b1(b - a)=-27, shangNub1=0.000000, shangNumb2=4.000000
+
+a=13, b=4
+int ch1[] = '4441'
+int ch2[] = '4'
+a1(a - b)=9, shangNuma1=3, shangNuma2=1
+b1(b - a)=0 shangNub1=0, shangNumb2=4
+ 
+a=13, b=31
+int ch1[] = '13'
+int ch1[] = '13135'
+a1(a - b)=0, shangNuma1=0, shangNuma2=13
+b1(b - a)=18 shangNub1=2, shangNumb2=5
+   
